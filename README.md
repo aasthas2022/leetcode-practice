@@ -7,4 +7,5 @@
 
 ### SQL Solutions
 1. [595. Big Countries](SQL-Practice-Questions/595-big-countries.sql) - [Leetcode Link](https://leetcode.com/problems/big-countries)
+2. [620. Not boring movies](SQL-Practice-Questions\620-not-boring-movies.sql) - [Leetcode Link](https://leetcode.com/problems/not-boring-movies)
 2. [627. Swap Salary](SQL-Practice-Questions/627-swap-salary.sql) - [Leetcode Link](https://leetcode.com/problems/swap-salary)
