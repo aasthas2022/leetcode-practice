@@ -14,3 +14,4 @@
 4. [1683. Invalid Tweets](SQL-Practice-Questions/1683-invalid-tweet.sql) - [Leetcode Link](https://leetcode.com/problems/invalid-tweets) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 5. [1757. Recyclable and Low Fat Products](SQL-Practice-Questions/1757-recyclable-and-low-fat-products.sql) - [Leetcode Link](https://leetcode.com/problems/recyclable-and-low-fat-products/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 6. [1795. Rearrange Products Table](SQL-Practice-Questions/1795-rearrange-product-tables.sql) - [Leetcode Link](https://leetcode.com/problems/rearrange-products-table/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
+7. [2356. Number of Unique Subjects Taught by Each Teacher](SQL-Practice-Questions/2356-number-of-unique-subjects-taught-by-teacher.sql) - [Leetcode Link](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
