@@ -12,4 +12,5 @@
 2. [620. Not boring movies](SQL-Practice-Questions\620-not-boring-movies.sql) - [Leetcode Link](https://leetcode.com/problems/not-boring-movies) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 3. [627. Swap Salary](SQL-Practice-Questions/627-swap-salary.sql) - [Leetcode Link](https://leetcode.com/problems/swap-salary) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 4. [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
-4. [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
+5. [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
+6. [1795. Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
