@@ -4,6 +4,7 @@
 
 1. [1920. Build Array from Permutation](1920.%20Build%20Array%20from%20Permutation/) - [Leetcode Link](https://leetcode.com/problems/build-array-from-permutation/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 2. [1929. Concatenation of Array](./1929.%20Concatenation%20of%20Array) - [Leetcode Link](https://leetcode.com/problems/concatenation-of-array/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
+3. [2469. Convert the temperature](./2469.%20Convert%20the%20temperature/) - [Leetcode Link](https://leetcode.com/problems/convert-the-temperature/description/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 3. [2703. Return Length of Arguments Passed](./2703.%20Return%20Length%20of%20Arguments%20Passed) - [Leetcode Link](https://leetcode.com/problems/return-length-of-arguments-passed) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 
 ### SQL Solutions
