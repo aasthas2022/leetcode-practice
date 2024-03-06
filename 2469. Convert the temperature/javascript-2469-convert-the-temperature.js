@@ -1,4 +1,4 @@
-const CELCIUS_TO_KELVIN =   
+const CELCIUS_TO_KELVIN = 273.15
 const CELCIOUs_TO_FARHENITE = 32
 
 function convertTemperature(celcius) {
