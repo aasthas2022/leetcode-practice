@@ -14,6 +14,7 @@
 1. [595. Big Countries](SQL-Practice-Questions/595-big-countries.sql) - [Leetcode Link](https://leetcode.com/problems/big-countries) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 2. [620. Not boring movies](SQL-Practice-Questions\620-not-boring-movies.sql) - [Leetcode Link](https://leetcode.com/problems/not-boring-movies) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 3. [627. Swap Salary](SQL-Practice-Questions/627-swap-salary.sql) - [Leetcode Link](https://leetcode.com/problems/swap-salary) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
+4. [1068. Product Sales Analysis I](SQL-Practice-Questions/1068-product-sales-analysis-i.sql)  - [Leetcode Link](https://leetcode.com/problems/product-sales-analysis-i) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 4. [1378. Replace Employee ID With The Unique Identifier](SQL-Practice-Questions/1378-replace-employee-id-with-the-unique-identifier.sql) - [Leetcode Link](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 5. [1587. Bank Account Summary II](SQL-Practice-Questions/1587-bank-account-summary-ii.sql) - [Leetcode Link](https://leetcode.com/problems/bank-account-summary-ii/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 6. [1683. Invalid Tweets](SQL-Practice-Questions/1683-invalid-tweet.sql) - [Leetcode Link](https://leetcode.com/problems/invalid-tweets) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
