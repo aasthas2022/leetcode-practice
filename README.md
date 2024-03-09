@@ -5,7 +5,7 @@
 1. [771. Jewels and Stones()](./771.%20Jewels%20and%20Stones/) - [Leetcode Link](https://leetcode.com/problems/jewels-and-stones) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 2. [1108. Defanging An IP Address](./1108.%20Defanging%20An%20IP%20Address/) - [Leetcode Link](https://leetcode.com/problems/defanging-an-ip-address/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 3. [1152. Number Of Good Pairs](./1152.%20Number%20Of%20Good%20Pairs/) - [Leetcode Link](https://leetcode.com/problems/number-of-good-pairs/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
-5. [Shuffle the Array](./1470.%20Shuffle%20the%20Array/) - [Leetcode Link](https://leetcode.com/problems/shuffle-the-array/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
+5. [1470. Shuffle the Array](./1470.%20Shuffle%20the%20Array/) - [Leetcode Link](https://leetcode.com/problems/shuffle-the-array/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 6. [1920. Build Array from Permutation](1920.%20Build%20Array%20from%20Permutation/) - [Leetcode Link](https://leetcode.com/problems/build-array-from-permutation/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 7. [1929. Concatenation of Array](./1929.%20Concatenation%20of%20Array) - [Leetcode Link](https://leetcode.com/problems/concatenation-of-array/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 8. [2469. Convert the temperature](./2469.%20Convert%20the%20temperature/) - [Leetcode Link](https://leetcode.com/problems/convert-the-temperature/description/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
