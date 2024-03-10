@@ -13,6 +13,10 @@
 9. [2540. Minimum Common Value](./2540.%20Minimum%20Common%20Value/) - [Leetcode Link](https://leetcode.com/problems/minimum-common-value) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 10. [2703. Return Length of Arguments Passed](./2703.%20Return%20Length%20of%20Arguments%20Passed) - [Leetcode Link](https://leetcode.com/problems/return-length-of-arguments-passed) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 
+### Mediium Solutions: 
+
+1. [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) - [Leetcode Link](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) ![Medium](https://img.shields.io/badge/-Medium-yellow)
+
 ### SQL Solutions
 
 1. [595. Big Countries](SQL-Practice-Questions/595-big-countries.sql) - [Leetcode Link](https://leetcode.com/problems/big-countries) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
