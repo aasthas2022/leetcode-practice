@@ -15,6 +15,7 @@
 
 ### Mediium Solutions: 
 
+1. [791. Custom Sort String](./791.%20Custom%20Sort%20String/) - [Leetcode Link](https://leetcode.com/problems/custom-sort-string) ![Medium](https://img.shields.io/badge/-Medium-yellow)
 1. [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) - [Leetcode Link](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) ![Medium](https://img.shields.io/badge/-Medium-yellow)
 
 ### SQL Solutions
