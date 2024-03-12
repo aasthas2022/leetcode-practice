@@ -16,6 +16,7 @@
 ### Mediium Solutions: 
 
 1. [791. Custom Sort String](./Medium-Practice-Question-Solution/791.%20Custom%20Sort%20String/) - [Leetcode Link](https://leetcode.com/problems/custom-sort-string) ![Medium](https://img.shields.io/badge/-Medium-yellow)
+2. [1171. Remove Zero Sum Consecutive Nodes from Linked List](./Medium-Practice-Question-Solutions/1171.%20Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List/) - [Leetcode Link](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list) ![Medium](https://img.shields.io/badge/-Medium-yellow) (TODO: Solve this question in js)
 1. [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](./Medium-Practice-Question-Solution/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) - [Leetcode Link](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) ![Medium](https://img.shields.io/badge/-Medium-yellow)
 
 ### SQL Solutions
