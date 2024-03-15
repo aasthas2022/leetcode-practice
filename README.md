@@ -7,11 +7,12 @@
 3. [1108. Defanging An IP Address](./Easy-Practice-Question-Solutions/1108.%20Defanging%20An%20IP%20Address/) - [Leetcode Link](https://leetcode.com/problems/defanging-an-ip-address/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 4. [1152. Number Of Good Pairs](./Easy-Practice-Question-Solutions/1152.%20Number%20Of%20Good%20Pairs/) - [Leetcode Link](https://leetcode.com/problems/number-of-good-pairs/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 5. [1470. Shuffle the Array](./Easy-Practice-Question-Solutions/1470.%20Shuffle%20the%20Array/) - [Leetcode Link](https://leetcode.com/problems/shuffle-the-array/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
-6. [1920. Build Array from Permutation](./Easy-Practice-Question-Solutions/1920.%20Build%20Array%20from%20Permutation/) - [Leetcode Link](https://leetcode.com/problems/build-array-from-permutation/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
-7. [1929. Concatenation of Array](./Easy-Practice-Question-Solutions/1929.%20Concatenation%20of%20Array) - [Leetcode Link](https://leetcode.com/problems/concatenation-of-array/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
-8. [2469. Convert the temperature](./Easy-Practice-Question-Solutions/2469.%20Convert%20the%20temperature/) - [Leetcode Link](https://leetcode.com/problems/convert-the-temperature) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
-9. [2540. Minimum Common Value](./Easy-Practice-Question-Solutions/2540.%20Minimum%20Common%20Value/) - [Leetcode Link](https://leetcode.com/problems/minimum-common-value) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
-10. [2703. Return Length of Arguments Passed](./Easy-Practice-Question-Solutions/2703.%20Return%20Length%20of%20Arguments%20Passed) - [Leetcode Link](https://leetcode.com/problems/return-length-of-arguments-passed) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
+6. [1768. Merge Strings Alternately](./Easy-Practice-Question-Solutions/1768.%20Merge%20Strings%20Alternately/)) - [Leetcode Link](https://leetcode.com/problems/merge-strings-alternately) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
+7. [1920. Build Array from Permutation](./Easy-Practice-Question-Solutions/1920.%20Build%20Array%20from%20Permutation/) - [Leetcode Link](https://leetcode.com/problems/build-array-from-permutation/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
+8. [1929. Concatenation of Array](./Easy-Practice-Question-Solutions/1929.%20Concatenation%20of%20Array) - [Leetcode Link](https://leetcode.com/problems/concatenation-of-array/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
+9. [2469. Convert the temperature](./Easy-Practice-Question-Solutions/2469.%20Convert%20the%20temperature/) - [Leetcode Link](https://leetcode.com/problems/convert-the-temperature) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
+10. [2540. Minimum Common Value](./Easy-Practice-Question-Solutions/2540.%20Minimum%20Common%20Value/) - [Leetcode Link](https://leetcode.com/problems/minimum-common-value) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
+11. [2703. Return Length of Arguments Passed](./Easy-Practice-Question-Solutions/2703.%20Return%20Length%20of%20Arguments%20Passed) - [Leetcode Link](https://leetcode.com/problems/return-length-of-arguments-passed) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 
 ### Mediium Solutions: 
 
