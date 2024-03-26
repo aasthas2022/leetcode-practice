@@ -4,7 +4,8 @@
 
 1. [1. Two Sum](./Easy-Practice-Question-Solutions/1.%20Two%20Sum/) - [Leetcode Link](https://leetcode.com/problems/two-sum/) - [Read Approach](./Easy-Practice-Question-Solutions//1.%20Two%20Sum//solution.md)
 2. [9. Palindrome Number](./Easy-Practice-Question-Solutions/9.%20Palindrome%20Number/) - [Leetcode Link](https://leetcode.com/problems/palindrome-number)
-13. [13. Roman to Integer](./Easy-Practice-Question-Solutions/13.%20Roman%20to%20Integer/) - [Leetcode Link](https://leetcode.com/problems/roman-to-integer)
+3. [13. Roman to Integer](./Easy-Practice-Question-Solutions/13.%20Roman%20to%20Integer/) - [Leetcode Link](https://leetcode.com/problems/roman-to-integer)
+4. [28. Find the Index of the First Occurrence in a String](./Easy-Practice-Question-Solutions/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) - [Leetcode Link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) - [Read my Approach on Leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/4929396/beats-996-users-of-python-1-line-solution/)
 3. [349. Intersection of Two Arrays](./Easy-Practice-Question-Solutions/349.%20Intersection%20of%20Two%20Arrays/)  - [Leetcode Link](https://leetcode.com/problems/intersection-of-two-arrays)
 4. [771. Jewels and Stones](./Easy-Practice-Question-Solutions/771.%20Jewels%20and%20Stones/) - [Leetcode Link](https://leetcode.com/problems/jewels-and-stones)
 5. [1108. Defanging An IP Address](./Easy-Practice-Question-Solutions/1108.%20Defanging%20An%20IP%20Address/) - [Leetcode Link](https://leetcode.com/problems/defanging-an-ip-address/)
