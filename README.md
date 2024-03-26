@@ -27,6 +27,7 @@
 ### SQL Solutions
 
 1. [175. Combine Two Tables](./SQL-Practice-Question-Solutions/175-combine-two-tables.sql) - [Leetcode Link](https://leetcode.com/problems/combine-two-tables) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
+1. [181. Employees Earning More Than Their Managers](./SQL-Practice-Question-Solutions/181-employees-earning-more-than-their-managers.sql) - [Leetcode Link](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/)  ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 1. [183. Customers Who Never Order](./SQL-Practice-Question-Solutions/183-customers-who-never-order.sql) - [Leetcode Link](https://leetcode.com/problems/customers-who-never-order/description/) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 2. [595. Big Countries](./SQL-Practice-Question-Solutions/595-big-countries.sql) - [Leetcode Link](https://leetcode.com/problems/big-countries) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
 3. [620. Not boring movies](./SQL-Practice-Question-Solutions/620-not-boring-movies.sql) - [Leetcode Link](https://leetcode.com/problems/not-boring-movies) ![Easy](https://img.shields.io/badge/-Easy-brightgreen)
